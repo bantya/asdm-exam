@@ -1,0 +1,32 @@
+{
+  "name": "asdm-exam",
+  "version": "1.0.0",
+  "description": "The express project for ASDM end module exam.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bantya/asdm-exam.git"
+  },
+  "keywords": [
+    "asdm",
+    "aws",
+    "amazon",
+    "amazon-ec2",
+    "git",
+    "github",
+    "nodejs",
+    "express"
+  ],
+  "author": "Rahul Thakare (https://www.github.com/bantya)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bantya/asdm-exam/issues"
+  },
+  "homepage": "https://github.com/bantya/asdm-exam#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
